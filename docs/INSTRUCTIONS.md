@@ -55,30 +55,21 @@ Voordat je de _Structural navigation_ kan schetsen moet je eerst weten welke str
 Als je weet wat de top-level pagina's en de sub-level pagina's zijn kun je de _Structural navigation_ schetsen. 
 _Structural navigation_ verbindt de verschillende pagina's van een website met elkaar volgens de hiërarchische structuur. Op elke pagina moet een gebruiker naar de 'bovenliggende' pagina en naar de 'onderliggende' pagina's kunnen browsen.
 
-Schets een aantal menu ideeen voor de _Structural navigation_.
-
-Met behulp van de _Structural navigation_ kan de gebruiker 
-
-Navigatie geeft toegang tot de informatie op een website
-Navigatie toont waar je bent op een website
-
-
-
+Schets _Structural navigation_ op basis van de top-level pagina's.
 
 <details>
 <summary>Aanpak</summary>
 
-1. Teken de _Structural navigation_ met behulp van de top-level pagina's
-2. Bepaal de volgorde van menu elementen
-2. Bepaal de active en un-active states van de menu elementen zodat de gebruiker weet waar die is
-3. Geef aan wat de straatnaam bordjes en wat wegbewijzering is
+1. Schrijf voor elke top-level pagina's een passend label.
+2. Bepaal de volgorde van menu elementen en schets de _Structural navigation_.
+3. Bepaal de active state, de in-active states en de hover state van de menu elementen zodat de gebruiker weet waar die is en waar die heen kan 
 
 
 #### Materiaal ontwerpfase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Labels](https://example.com)
+- [States](https://example.com)
+- [Straatnaambordjes en wegbewijzering](https://example.com)
 
 </details>
 
