@@ -2,20 +2,20 @@ De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 
 Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 
-# Structural Naviagtion Duplicate
+# Structural Navigation Duplicate
 
-{Beschrijving van de leertaak}.
+Teken een structural navigatie systeem met feedback en states.
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een Duplicate leertaak die je individueel uitvoert.
+
+In het college S05W1 - Informatie archhitectuur en het college S05W1 - User Stories & Wireflows wordt structural, associative en utility navigatie uitgelegd.
 
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
+Je leert hoe je structural naviagtie ontwerpt.
 
 
 
