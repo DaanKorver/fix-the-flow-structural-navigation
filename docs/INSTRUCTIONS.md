@@ -15,7 +15,7 @@ In het college S05W1 - Informatie archhitectuur en het college S05W1 - User Stor
 
 ## Doel van deze opdracht
 
-Je leert hoe je structural naviagtie ontwerpt.
+Met deze opdracht leer je hoe je structural navigatie ontwerpt.
 
 
 
