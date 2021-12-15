@@ -1,10 +1,10 @@
-# Structural Navigation Duplicate
+# Fix the Flow - Structural Navigation
 
 Teken de _Structural navigation_ met feedback en states.
 
 ## Context
 
-Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een Duplicate leertaak die je individueel uitvoert.
+Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je individueel uitvoert.
 
 In het college S05W1 - Informatie architectuur en het college S05W1 - User Stories & Wireflows wordt structural, associative en utility navigatie uitgelegd.
 
