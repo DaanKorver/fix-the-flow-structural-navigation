@@ -55,28 +55,28 @@ Voordat je de _Structural navigation_ kan schetsen moet je eerst weten welke str
 Als je weet wat de top-level pagina's en de sub-level pagina's zijn kun je de _Structural navigation_ schetsen. 
 _Structural navigation_ verbindt de verschillende pagina's van een website met elkaar volgens de hiërarchische structuur. Op elke pagina moet een gebruiker naar de 'bovenliggende' pagina en naar de 'onderliggende' pagina's kunnen browsen.
 
-Schets _Structural navigation_ op basis van de top-level pagina's.
+Schets op basis van de top-level pagina's een menu voor de _Structural navigation_ 
 
 <details>
 <summary>Aanpak</summary>
 
-1. Schrijf voor elke top-level pagina's een passend label.
-2. Bepaal de volgorde van menu elementen en schets de _Structural navigation_.
-3. Bepaal de active state, de in-active states en de hover state van de menu elementen zodat de gebruiker weet waar die is en waar die heen kan 
-
-
-#### Materiaal ontwerpfase
-
-- [Labels](https://example.com)
-- [States](https://example.com)
-- [Straatnaambordjes en wegbewijzering](https://example.com)
+1. Schrijf voor elke top-level pagina een passend label om te gebruiken in het menu
+2. Bepaal een logische volgorde van de menu items 
+3. Schets het menu voor de _Structural navigation_
+4. Bepaal de active state, de in-active states en de hover state van de menu elementen zodat de gebruiker weet waar die is en waar die heen kan 
 
 </details>
 
 
 
 ## Criteria
-*Definitions of done*
+
+De Structural Navigation opdracht is *done* als
+
+- [ ] Er is een Sitemap waarin de pagina's op een logische hiërarchische manier gestructureerd zijn
+- [ ] Er is een menu getekend met passende labels en een logische volgorde van de menu items
+- [ ] De verschillende states van een menu item zijn goed weergegeven, active state, de in-active states en de hover state
+- [ ] De opdracht is gedocumenteerd in de Readme van de leertaak
 
 Focus sprint 5 - De focus van deze sprint ligt op navigatie en informatie architectuur van een website. Organiseren en structureren van informatie, Design Patterns toepassen, Navigatie, filteren en zoekstrategieën, Micro Interacties.
 
