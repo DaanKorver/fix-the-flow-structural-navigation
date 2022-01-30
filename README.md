@@ -1,14 +1,8 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+# Game of Tones navigation
+Sitemap voor de game of tones
 
 ## Sitemap
-<!-- Een sitemap waarin alle paginas's op een logische hiërarchische manier gestructureerd -->
-
-## Menu
-<!-- Uitwerking van het menu, me de verschilllende states van de menu mitemas goed weergegeven -->
-
+<img width=600 src="https://raw.githubusercontent.com/JustinLung/the-game-of-tones-chapterpage/0b1b0fee8060943e3bdaf0dc19e765b122eefc68/docs/navigation.svg" >
 
 ## Licentie
 
